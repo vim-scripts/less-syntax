@@ -6,7 +6,7 @@
 " Last Modified: 2012-03-12
 
 if exists("b:current_syntax")
-    finish
+  finish
 endif
 
 runtime! syntax/css.vim
